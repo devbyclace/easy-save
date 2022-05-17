@@ -1,0 +1,23 @@
+{
+  "name": "easy_save",
+  "version": "1.0.0",
+  "description": "a simple database",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "dolapo oluwole",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "ipfs-core": "^0.14.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
